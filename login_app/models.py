@@ -1,5 +1,4 @@
 import email
-from tkinter import N
 from django.db import models
 from email.policy import default
 import re
